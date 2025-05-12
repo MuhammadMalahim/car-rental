@@ -19,14 +19,11 @@ The project includes:
 - `details.php`: Car detail display  
 - `register.php` / `login.php`: User authentication pages  
 - `admin.php`: Admin interface for adding new cars  
-- `css/`: Stylesheets for responsive UI  
-- `js/`: Client-side JavaScript for interactivity  
 - `images/`: Car images  
 
 ## Technologies Used  
 - PHP   
-- HTML/CSS  
-- JavaScript  
+- CSS
 
 ## Highlights  
 - Clean, validated form handling for user registration and admin input  
