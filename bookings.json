@@ -1,0 +1,14 @@
+[
+    {
+        "start_date": "2025-01-10",
+        "end_date": "2025-01-15",
+        "user_email": "john@example.com",
+        "car_id": 1
+    },
+    {
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-05",
+        "user_email": "admin@example.com",
+        "car_id": 2
+    }
+]
