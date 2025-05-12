@@ -1,6 +1,6 @@
 # Car Rental
 
-This repository contains a car rental web application built using PHP and MySQL. The system allows users to browse, filter, and view details of available cars, as well as register and log in. Admins can add new cars through a form with input validation.
+This repository contains a car rental web application built using PHP. The system allows users to browse, filter, and view details of available cars, as well as register and log in. Admins can add new cars through a form with input validation.
 
 ## Project Overview  
 The project includes:
@@ -24,8 +24,7 @@ The project includes:
 - `images/`: Car images  
 
 ## Technologies Used  
-- PHP  
-- MySQL  
+- PHP   
 - HTML/CSS  
 - JavaScript  
 
